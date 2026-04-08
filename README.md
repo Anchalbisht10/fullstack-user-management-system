@@ -32,17 +32,18 @@ Database:
 - MySQL (XAMPP)
 
 #Screenshot of Project 
+![Dashboard](ss/Dashboard.png)
 
-![Login](screenshots_of_project/Login.png)
+// here you can update delete logout
+
+
+![Login](ss/Login.png)
 
 //if you already have account login here
 
-![SignUp](screenshots_of_project/Signup.png)
+![SignUp](ss/Signup.png)
 
 //if you don't have account first sign up here
 
-![dashboard](screenshots_of_project/dashboard.png)
-
-// here you can update delete logout
 
 Built by Anchal Bisht
