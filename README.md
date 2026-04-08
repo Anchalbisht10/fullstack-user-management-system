@@ -41,7 +41,7 @@ Database:
 
 //if you don't have account first sign up here
 
-![Dashboard](screenshots_of_project/Dashboard.png)
+![dashboard](screenshots_of_project/dashboard.png)
 
 // here you can update delete logout
 
