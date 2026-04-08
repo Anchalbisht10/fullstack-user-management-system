@@ -32,10 +32,6 @@ Database:
 - MySQL (XAMPP)
 
 #Screenshot of Project 
-![Dashboard](ss/Dashboard.png)
-
-// here you can update delete logout
-
 
 ![Login](ss/Login.png)
 
@@ -44,6 +40,10 @@ Database:
 ![SignUp](ss/Signup.png)
 
 //if you don't have account first sign up here
+
+![Dashboard](ss/Dashboard.png)
+
+// here you can update delete logout
 
 
 Built by Anchal Bisht
