@@ -31,19 +31,17 @@ Backend:
 Database:
 - MySQL (XAMPP)
 
-#Screenshot of Project 
+# Screenshot of Project 
 
-![Login](ss/Login.png)
+![Login](ss/Login.png)  
+Login page where existing users can securely access their accounts by entering credentials.
 
-//if you already have account login here
+![SignUp](ss/Signup.png)  
+Signup page for new users to register their details and create an account before accessing the system.
 
-![SignUp](ss/Signup.png)
+![Dashboard](ss/Dashboard.png)  
+Dashboard page that provides options to update book details, delete records, or log out of the application.
 
-//if you don't have account first sign up here
-
-![Dashboard](ss/Dashboard.png)
-
-// here you can update delete logout
 
 
 Built by Anchal Bisht
