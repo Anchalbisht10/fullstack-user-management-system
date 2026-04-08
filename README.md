@@ -41,4 +41,8 @@ Database:
 
 //if you don't have account first sign up here
 
+![Dashboard](screenshots_of_project/Dashboard.png)
+
+// here you can update delete logout
+
 Built by Anchal Bisht
