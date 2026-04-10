@@ -2,7 +2,7 @@
 
 A full-stack web application that allows users to register, login, and manage user data securely.  
 The project demonstrates authentication using JWT with HTTP-only cookies and protected API routes.
-
+---
 ## 🚀 Features
 
 - User Signup
@@ -14,7 +14,7 @@ The project demonstrates authentication using JWT with HTTP-only cookies and pro
 - RESTful API using Express
 - MySQL Database Integration
 - React Frontend Dashboard
-
+---
 ## 🛠️ Tech Stack
 
 Frontend:
@@ -30,18 +30,23 @@ Backend:
 
 Database:
 - MySQL (XAMPP)
-
+---
 # Screenshot of Project 
 
 ![Login](ss/Login.png)  
 Login page where existing users can securely access their accounts by entering credentials.
-
+---
 ![SignUp](ss/Signup.png)  
 Signup page for new users to register their details and create an account before accessing the system.
-
+---
 ![Dashboard](ss/Dashboard.png)  
 Dashboard page that provides options to update book details, delete records, or log out of the application.
 
-
+---
 
 Built by Anchal Bisht
+
+---
+⭐ If you like this project
+Give it a ⭐ on GitHub and feel free to contribute!
+
